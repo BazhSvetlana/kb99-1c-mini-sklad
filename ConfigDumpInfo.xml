@@ -24,7 +24,7 @@
 		<Metadata name="CommonPicture.Предприятие.Picture" id="5f31db31-3f99-43d1-963c-73af208ca1af.0" configVersion="ee8fbad4860b5f4b8e1e31e03d0132c500000000"/>
 		<Metadata name="CommonPicture.Услуги" id="ca9229ec-f3a2-4fc8-8efc-f0e503b4d327" configVersion="881cdc0d888cb14cbcf1f8876bd6213400000000"/>
 		<Metadata name="CommonPicture.Услуги.Picture" id="ca9229ec-f3a2-4fc8-8efc-f0e503b4d327.0" configVersion="5698306545fdf44d9e5776e0c7d1618e00000000"/>
-		<Metadata name="Configuration.ПроектМиниСклад" id="3da11b31-4554-4277-b17d-6b88ae479259" configVersion="bc060345569ce842bb734c1c0a16e18200000000"/>
+		<Metadata name="Configuration.ПроектМиниСклад" id="3da11b31-4554-4277-b17d-6b88ae479259" configVersion="83b03c06454de34995cf74a5c6419e1400000000"/>
 		<Metadata name="Configuration.ПроектМиниСклад.ClientApplicationInterface" id="f756c32d-2cc3-4a33-8d73-80cc0fc25f52.b" configVersion="2c8e49361c7a9249ba0359b79707b02f00000000"/>
 		<Metadata name="Configuration.ПроектМиниСклад.CommandInterface" id="f756c32d-2cc3-4a33-8d73-80cc0fc25f52.a" configVersion="c1061f35a0edcb478c237308113e84b800000000"/>
 		<Metadata name="Document.ПриходнаяНакладная" id="17f2200d-7569-4c5d-942d-3b1c67d31781" configVersion="aadfe6eb5c0d5642bbd97fd5ee5b3d9800000000">
@@ -52,6 +52,7 @@
 		<Metadata name="Language.Русский" id="8219dcd6-208e-448c-aae5-279cb74cba9c" configVersion="c890135bc1fa33418d2152cf5baee99900000000"/>
 		<Metadata name="Subsystem.Бухгалтерия" id="66f01d4e-5c3b-4992-8b64-45146a947dbb" configVersion="b826e5e4c647d04b80f201738aa9949d00000000"/>
 		<Metadata name="Subsystem.Бухгалтерия.CommandInterface" id="66f01d4e-5c3b-4992-8b64-45146a947dbb.1" configVersion="356da7b57213eb458be644d15998801400000000"/>
+		<Metadata name="Subsystem.Мини_склад" id="d8f3bb80-7204-4e83-bf12-bee7e3af82d9" configVersion="a9e9b34629b0484c8b4a42f85ee5551100000000"/>
 		<Metadata name="Subsystem.Предприятие" id="63aec571-c81a-44f5-b8f0-32e725db1f5a" configVersion="ec4843fd0d784147b48b2abdeb99d27a00000000"/>
 		<Metadata name="Subsystem.РасчетЗарплаты" id="cceed427-14f5-4865-9f76-ce9c8f3f2109" configVersion="f33604b0072d904d9fbbca58956087af00000000"/>
 		<Metadata name="Subsystem.РасчетЗарплаты.CommandInterface" id="cceed427-14f5-4865-9f76-ce9c8f3f2109.1" configVersion="526549261a81784896aa15aef3462b5b00000000"/>

@@ -250,6 +250,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Мини_склад</Subsystem>
 			<Subsystem>Бухгалтерия</Subsystem>
 			<Subsystem>УчетМатериалов</Subsystem>
 			<Subsystem>Реализация</Subsystem>
