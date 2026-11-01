@@ -262,12 +262,18 @@
 			<CommonPicture>Зарплата</CommonPicture>
 			<CommonPicture>Предприятие</CommonPicture>
 			<CommonModule>РаботаСДокументами</CommonModule>
+			<CommonModule>РаботаСоСправочниками</CommonModule>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Товары</Catalog>
 			<Catalog>Склады</Catalog>
 			<Document>ПриходнаяНакладная</Document>
 			<Document>Реализация</Document>
+			<Enum>ВидыНоменклатуры</Enum>
+			<Report>Товары</Report>
+			<InformationRegister>Цены</InformationRegister>
+			<AccumulationRegister>Остатки</AccumulationRegister>
+			<AccumulationRegister>Обороты</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
