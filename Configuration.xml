@@ -270,10 +270,11 @@
 			<Document>ПриходнаяНакладная</Document>
 			<Document>Реализация</Document>
 			<Enum>ВидыНоменклатуры</Enum>
-			<Report>Товары</Report>
+			<Report>СКД_отчетОборотыПоТоварам</Report>
 			<InformationRegister>Цены</InformationRegister>
 			<AccumulationRegister>Остатки</AccumulationRegister>
 			<AccumulationRegister>Обороты</AccumulationRegister>
+			<AccumulationRegister>Стоимость</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
