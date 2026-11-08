@@ -25,6 +25,12 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Report.СКД_отчетОборотыПоТоварам</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.Цены</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Стоимость</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Продажи</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.РеестрДокументовРеализации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.РейтингУслуг</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ВыручкаМастеров</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ПереченьУслуг</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.Универсальный</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

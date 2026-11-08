@@ -271,10 +271,16 @@
 			<Document>Реализация</Document>
 			<Enum>ВидыНоменклатуры</Enum>
 			<Report>СКД_отчетОборотыПоТоварам</Report>
+			<Report>РеестрДокументовРеализации</Report>
+			<Report>РейтингУслуг</Report>
+			<Report>ВыручкаМастеров</Report>
+			<Report>ПереченьУслуг</Report>
+			<Report>Универсальный</Report>
 			<InformationRegister>Цены</InformationRegister>
 			<AccumulationRegister>Остатки</AccumulationRegister>
 			<AccumulationRegister>Обороты</AccumulationRegister>
 			<AccumulationRegister>Стоимость</AccumulationRegister>
+			<AccumulationRegister>Продажи</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
