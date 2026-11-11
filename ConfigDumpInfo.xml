@@ -66,7 +66,7 @@
 		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента" id="ccf6a2a5-0049-4021-ab71-18aba976c2c0" configVersion="307cacc3f6dc5c48945e9809f20174e800000000"/>
 		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента.Form" id="ccf6a2a5-0049-4021-ab71-18aba976c2c0.0" configVersion="88aaa33dcb4a7b418f3d6fe94d9a0a2200000000"/>
 		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="17f2200d-7569-4c5d-942d-3b1c67d31781.0" configVersion="8e69dc1bef603d4f9ecab42e25a0f23200000000"/>
-		<Metadata name="Document.Реализация" id="a4472423-83b5-4e96-a354-33b8959afee6" configVersion="6f72c980b4a6714da7391566628855bb00000000">
+		<Metadata name="Document.Реализация" id="a4472423-83b5-4e96-a354-33b8959afee6" configVersion="f42d9f96c1ca7b41b664dd4d56bd4eca00000000">
 			<Metadata name="Document.Реализация.TabularSection.ПереченьНоменклатуры.Attribute.Цена" id="15d36ab0-191d-4e38-8c21-5cf6949f949e"/>
 			<Metadata name="Document.Реализация.Attribute.Мастер" id="3d00a799-de31-4b36-a791-70d9e7d39efc"/>
 			<Metadata name="Document.Реализация.TabularSection.ПереченьНоменклатуры.Attribute.Количество" id="48f9fca3-96cb-4bf5-a162-a68144d4482f"/>
@@ -81,7 +81,7 @@
 		<Metadata name="Document.Реализация.Form.ФормаДокумента" id="2c79988a-e22d-42f5-940f-a3aeca5d3967" configVersion="d537e8b7279fc54c95745227878e210700000000"/>
 		<Metadata name="Document.Реализация.Form.ФормаДокумента.Form" id="2c79988a-e22d-42f5-940f-a3aeca5d3967.0" configVersion="599ab54a1a6f19499d513fcdc5b313ad00000000"/>
 		<Metadata name="Document.Реализация.ManagerModule" id="a4472423-83b5-4e96-a354-33b8959afee6.2" configVersion="f45f7f24e05f594d9327f6e40558d25b00000000"/>
-		<Metadata name="Document.Реализация.ObjectModule" id="a4472423-83b5-4e96-a354-33b8959afee6.0" configVersion="a098c8aa6dcef4478a74c60d6bf9bf8c00000000"/>
+		<Metadata name="Document.Реализация.ObjectModule" id="a4472423-83b5-4e96-a354-33b8959afee6.0" configVersion="ae2d92041ea5f544ac6342dfb6cb5d1700000000"/>
 		<Metadata name="Document.Реализация.Template.Печать" id="57e889d2-09a2-403c-9183-304ca40eb5bd" configVersion="f0bc7a757a663a43a9fe3df59c60d7ca00000000"/>
 		<Metadata name="Document.Реализация.Template.Печать.Template" id="57e889d2-09a2-403c-9183-304ca40eb5bd.0" configVersion="8596a7a71e94ff41a61503f183b4b59200000000"/>
 		<Metadata name="Enum.ВидыНоменклатуры" id="5059635e-a9eb-475b-8d31-cb3a1f7e91d2" configVersion="d99d73dc9f39094b99aec9b0ee14351900000000">
