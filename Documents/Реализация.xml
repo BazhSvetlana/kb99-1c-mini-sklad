@@ -65,6 +65,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Обороты</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Остатки</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Стоимость</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ПартииМатериалов</xr:Item>
 			</RegisterRecords>
 			<PostInPrivilegedMode>true</PostInPrivilegedMode>
 			<UnpostInPrivilegedMode>true</UnpostInPrivilegedMode>
